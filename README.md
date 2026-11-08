@@ -31,12 +31,12 @@ jeitos, cada um com o seu download:
 
 | | |
 |---|---|
-| ![Status](imagens/fotos/01_status.jpg) | ![Tela de título](imagens/fotos/02_titulo.jpg) |
-| Status do personagem | Tela de título |
-| ![Menu](imagens/fotos/03_menu.jpg) | ![Resultados](imagens/fotos/04_resultados.jpg) |
-| Menu (PV, PM e G-CG) | Resultados da batalha |
-| ![Cena](imagens/fotos/05_cena.jpg) | ![Batalha](imagens/fotos/06_batalha.jpg) |
-| Legendas das cenas | Batalha |
+| ![Tela de título](imagens/fotos/01_titulo.jpg) | ![Menu](imagens/fotos/02_menu.jpg) |
+| Tela de título | Menu (PV, PM e G-CG) |
+| ![Status](imagens/fotos/03_status.jpg) | ![Cena](imagens/fotos/04_cena.jpg) |
+| Status do personagem | Legendas das cenas |
+| ![Batalha](imagens/fotos/05_batalha.jpg) | ![Resultados](imagens/fotos/06_resultados.jpg) |
+| Batalha | Resultados da batalha |
 
 *Fotos da versão Nomes Traduzidos.*
 
