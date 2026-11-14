@@ -1,6 +1,6 @@
 ![Lost Odyssey — Tradução PT-BR](imagens/banner.png)
 
-# ⚔️ Lost Odyssey — Tradução PT-BR v1.0
+# ⚔️ Lost Odyssey — Tradução PT-BR v1.1
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-LostOdysseyRecomp%20%7C%20Xenia%20%7C%20Xbox%20360-107c10)
@@ -13,8 +13,8 @@ jeitos, cada um com o seu download:
 
 | Onde você joga | Pacote | O que tem |
 |---|---|---|
-| 🖥️ **[LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp)** (recompilação para PC) | `LostOdyssey_PTBR_Recomp_v1.0.zip` | Pacotes de idioma e imagens do recomp: a experiência mais completa, com as imagens com texto também em português |
-| 🎮 **Emulador [Xenia](https://xenia.jp)** ou **Xbox 360** | `LostOdyssey_PTBR_Discos_v1.0.zip` | Patch para os 4 discos (em ISO ou extraídos) e para as DLCs no Xenia, com um programa que aplica a tradução sozinho |
+| 🖥️ **[LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp)** (recompilação para PC) | `LostOdyssey_PTBR_Recomp_v1.1.zip` | Pacotes de idioma e imagens do recomp: a experiência mais completa, com as imagens com texto também em português |
+| 🎮 **Emulador [Xenia](https://xenia.jp)** ou **Xbox 360** | `LostOdyssey_PTBR_Discos_v1.1.zip` | Patch para os 4 discos (em ISO ou extraídos) e para as DLCs no Xenia, com um programa que aplica a tradução sozinho |
 
 > 🖥️ A tradução foi feita para o [LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp), e o patch dos
 > discos é gerado a partir dela: os textos são os mesmos nos dois pacotes. Nos discos, só as imagens com texto ficam em
@@ -40,12 +40,16 @@ jeitos, cada um com o seu download:
 
 *Fotos da versão Nomes Traduzidos.*
 
-## 📥 Download (v1.0)
+## 📥 Download (v1.1)
+
+**Novidades da v1.1:** nomes que soavam estranhos foram trocados (Diacorno → Diacórneo, Matalon → Matalolon,
+Insetor → Insetoide, Giga-Corte → Gigacorte, Giga-Esmagamento → Gigaesmagamento) e o dinheiro aparece com **o** de
+ouro (500o), como nas versões em espanhol, francês e italiano do jogo.
 
 **[⬇️ Baixar na página de Releases](../../releases/latest)**. Os dois zips trazem as **duas versões** da tradução e um
 guia `LEIA-ME.txt`.
 
-**`LostOdyssey_PTBR_Recomp_v1.0.zip`** (LostOdysseyRecomp):
+**`LostOdyssey_PTBR_Recomp_v1.1.zip`** (LostOdysseyRecomp):
 
 | Dentro do zip | O que é |
 |---|---|
@@ -54,7 +58,7 @@ guia `LEIA-ME.txt`.
 | `mods/lo-ptbr-texturas/` | Imagens com texto em português (só para a Nomes Traduzidos) |
 | `LEIA-ME.txt`, `LICENSE.txt` | Guia de instalação e termos de uso |
 
-**`LostOdyssey_PTBR_Discos_v1.0.zip`** (Xenia e Xbox 360):
+**`LostOdyssey_PTBR_Discos_v1.1.zip`** (Xenia e Xbox 360):
 
 | Dentro do zip | O que é |
 |---|---|
@@ -129,7 +133,7 @@ ao lado está em português), os nomes da equipe nos créditos e os títulos das
 
 Feche o jogo antes.
 
-1. Baixe o `LostOdyssey_PTBR_Recomp_v1.0.zip` na página de [Releases](../../releases) e descompacte.
+1. Baixe o `LostOdyssey_PTBR_Recomp_v1.1.zip` na página de [Releases](../../releases) e descompacte.
 2. Copie o conteúdo da pasta `mods` do zip para a pasta **`mods`** do LostOdysseyRecomp (ao lado do
    `LostOdysseyRecomp.exe` no Windows).
    - Quer a **Nomes Traduzidos**? Copie `lo-ptbr` e `lo-ptbr-texturas`.
@@ -141,11 +145,13 @@ Feche o jogo antes.
 
 **Para desinstalar:** apague as pastas `lo-ptbr`, `lo-ptbr-originais` e `lo-ptbr-texturas` de dentro de `mods`.
 
+**Para atualizar:** apague essas pastas e copie as da versão nova. Os saves continuam funcionando.
+
 ## 💾 Instalação nos discos (Xenia e Xbox 360)
 
 Feche o emulador antes.
 
-1. Baixe o `LostOdyssey_PTBR_Discos_v1.0.zip` na página de [Releases](../../releases) e descompacte.
+1. Baixe o `LostOdyssey_PTBR_Discos_v1.1.zip` na página de [Releases](../../releases) e descompacte.
 2. Abra **`Aplicar Traducao (Windows).bat`** (no Linux ou Steam Deck: `./aplicar_traducao_linux.sh`).
 3. Diga onde está o jogo:
    - **1 - Em pastas:** escolha a pasta de um disco, a pasta que tem os 4 discos dentro ou a pasta `content` do Xenia
@@ -163,7 +169,8 @@ do Xenia. No Xbox 360 de verdade as DLCs ficam em inglês, porque os pacotes de 
 podem ser alterados.
 
 Antes de mexer, o programa guarda os arquivos originais em `_backup_original_ptbr` (cerca de 330 MB por disco e 90 MB
-pelas duas DLCs) e, no fim, confere se o resultado está certo. Para trocar de versão é só rodar de novo.
+pelas duas DLCs) e, no fim, confere se o resultado está certo. Para trocar de versão é só rodar de novo. Quem já tem a v1.0 aplicada também é só rodar o programa novo: ele
+reconhece a versão anterior e atualiza.
 
 **Para desinstalar:** rode o programa de novo e escolha **3** (volta os arquivos originais).
 
