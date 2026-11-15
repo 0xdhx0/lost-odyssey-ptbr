@@ -18,17 +18,17 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: edicao
+    id: onde
     attributes:
-      label: Qual das duas versões
-      options: ["Nomes Traduzidos (tudo em português)", "Nomes Originais (nomes do jogo original)"]
+      label: Onde você joga
+      options: ["PC (LostOdysseyRecomp)", "Discos (Xenia ou Xbox 360)"]
     validations:
       required: true
   - type: input
     id: versao
     attributes:
       label: Versão da tradução
-      placeholder: "v1.0"
+      placeholder: "v1.2"
     validations:
       required: true
   - type: input
@@ -54,5 +54,5 @@ body:
   - type: input
     id: recomp
     attributes:
-      label: Versão do LostOdysseyRecomp e sistema
-      placeholder: "1.1.0 / Windows 11"
+      label: Versão do LostOdysseyRecomp (ou do emulador) e sistema
+      placeholder: "LostOdysseyRecomp 1.1.0 / Windows 11"
