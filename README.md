@@ -42,10 +42,6 @@ jeitos, cada um com o seu download:
 
 ## 📥 Download (v1.1)
 
-**Novidades da v1.1:** nomes que soavam estranhos foram trocados (Diacorno → Diacórneo, Matalon → Matalolon,
-Insetor → Insetoide, Giga-Corte → Gigacorte, Giga-Esmagamento → Gigaesmagamento) e o dinheiro aparece com **o** de
-ouro (500o), como nas versões em espanhol, francês e italiano do jogo.
-
 **[⬇️ Baixar na página de Releases](../../releases/latest)**. Os dois zips trazem as **duas versões** da tradução e um
 guia `LEIA-ME.txt`.
 
