@@ -18,7 +18,7 @@ Sonhos, magias, itens, monstros, lugares e imagens com texto em português.
 
 > ✅ O jogo inteiro está traduzido. Se achar algum problema, abra uma [issue](../../issues).
 
-## 📸 Fotos
+## 🖼️ Imagens
 
 | | |
 |---|---|
